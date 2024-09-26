@@ -1,2 +1,2 @@
 # Project-ML-Car-Price-Prediction-
-Machine Learning Project to Choose the Best Model to Handle Data Predict Car Prices
+In this challenge, we will try to predict the price depreciation of used cars, based on information such as the age of the car, its price if it was new or the number of kilometers it completed
